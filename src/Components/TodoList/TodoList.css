@@ -1,0 +1,13 @@
+.todo-list {
+  display: flex; /* Use flexbox for layout */
+  flex-direction: column; /* Arrange items in a column */
+  align-items: center; /* Center items horizontally */
+  padding: 20px; /* Add padding around the list */
+  gap: 15px; /* Space between each todo card */
+}
+.search {
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+}
